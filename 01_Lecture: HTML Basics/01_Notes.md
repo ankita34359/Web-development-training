@@ -58,3 +58,12 @@ Line 1<br>Line 2
   <li>Item 2</li>
 </ul>
 ```
+
+`<ol>`: Ordered list tag, used to create numbered lists.
+
+```html
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+</ol>
+```
