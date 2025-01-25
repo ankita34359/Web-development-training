@@ -18,6 +18,6 @@ The following HTML tags and elements were covered in this lecture:
 
 `<p>`: Paragraph tag, used for wrapping text into paragraphs.
 
-```
+```html
 <p>This is a paragraph of text.</p>
 ```
