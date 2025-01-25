@@ -14,3 +14,6 @@ The following HTML tags and elements were covered in this lecture:
 <h1>Main Heading</h1>
 <h2>Subheading</h2>
 ```
+### Text Formatting Tags
+
+`<p>`: Paragraph tag, used for wrapping text into paragraphs.
