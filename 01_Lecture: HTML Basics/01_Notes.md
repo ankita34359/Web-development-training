@@ -47,3 +47,7 @@ The following HTML tags and elements were covered in this lecture:
 ```html
 Line 1<br>Line 2
 ```
+
+### Lists
+
+`<ul>`: Unordered list tag, used to create bullet-point lists.
