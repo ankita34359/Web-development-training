@@ -1,3 +1,3 @@
-# YouTube Clone Development
+# Learnings From Training Sessions
 
-Welcome to the repository for my YouTube clone development project. This repository documents my learning journey where I explored how to build a real-time, feature-rich YouTube-like application.
+This repository is a collection of my learnings from the training phase at NullClass. It showcases my journey through the foundational concepts of web development, including HTML, CSS, JavaScript, React, and Redux.
