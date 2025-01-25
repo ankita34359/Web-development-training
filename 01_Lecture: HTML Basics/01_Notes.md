@@ -110,3 +110,7 @@ Line 1<br>Line 2
 ## Learnings and Insights
 
 This lecture provided me with the fundamental building blocks of HTML. Understanding these basic tags will help me create structured web pages with formatted text, images, forms, and multimedia content. The knowledge of headings, lists, and tables forms the foundation for creating more complex web structures in the future.
+
+## Conclusion
+
+This lecture served as an introduction to HTML, and I now have a solid understanding of the core tags used to create webpages. These fundamental concepts will be crucial as I progress into more advanced topics like CSS and JavaScript.
