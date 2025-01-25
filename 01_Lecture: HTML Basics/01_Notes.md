@@ -84,3 +84,14 @@ Line 1<br>Line 2
   </tr>
 </table>
 ```
+
+### Forms
+
+`<form>`: Used to create a form for collecting user input.
+
+```html
+<form action="/submit">
+  <input type="text" placeholder="Enter your name">
+  <input type="submit" value="Submit">
+</form>
+```
