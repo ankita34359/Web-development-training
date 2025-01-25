@@ -28,3 +28,10 @@ The following HTML tags and elements were covered in this lecture:
 <b>Bold text</b>
 <strong>Important bold text</strong>
 ```
+
+`<i>` and `<em>`: Used for italicizing text. <em> indicates emphasized text.
+
+```html
+<i>Italic text</i>
+<em>Emphasized italic text</em>
+```
