@@ -95,3 +95,14 @@ Line 1<br>Line 2
   <input type="submit" value="Submit">
 </form>
 ```
+
+### Video Tag
+
+`<video>`: Used to embed a video file into a webpage.
+
+```html
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+```
