@@ -67,3 +67,7 @@ Line 1<br>Line 2
   <li>Second item</li>
 </ol>
 ```
+
+### Tables
+
+`<table>`, `<tr>`, `<td>`, `<th>`: Tags used to create tables.
