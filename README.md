@@ -2,9 +2,13 @@
 
 This repository is a collection of my learnings from the training. It showcases my journey through the foundational concepts of web development, including HTML, CSS, JavaScript, React, and Redux.
 
+---
+
 ## Purpose
 
 The aim of this repository is to document and demonstrate my progress in mastering essential frontend technologies. Each section contains practical examples, notes, and mini-projects that helped me solidify my understanding of these concepts.
+
+---
 
 ## Technologies Covered
 
@@ -33,9 +37,13 @@ The aim of this repository is to document and demonstrate my progress in masteri
 - Centralized state management.
 - Actions, reducers, and the Redux flow.
 
+---
+
 ### Key Takeaways
 
 This training will provide me with a strong foundation in frontend development, enabling me to build real-world applications with clean, maintainable code.
+
+---
 
 ## Future Plans
 
