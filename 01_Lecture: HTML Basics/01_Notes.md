@@ -6,5 +6,6 @@ In this lecture, I learned the foundational concepts of HTML (HyperText Markup L
 
 The following HTML tags and elements were covered in this lecture:
 
-Headings
+### Headings
+
 `<h1>` to `<h6>`: Tags for creating headings of various sizes. `<h1>` represents the main heading, and `<h6>` is the smallest.
