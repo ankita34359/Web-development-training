@@ -17,3 +17,7 @@ The following HTML tags and elements were covered in this lecture:
 ### Text Formatting Tags
 
 `<p>`: Paragraph tag, used for wrapping text into paragraphs.
+
+```
+<p>This is a paragraph of text.</p>
+```
