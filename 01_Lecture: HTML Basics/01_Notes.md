@@ -106,3 +106,7 @@ Line 1<br>Line 2
   Your browser does not support the video tag.
 </video>
 ```
+
+## Learnings and Insights
+
+This lecture provided me with the fundamental building blocks of HTML. Understanding these basic tags will help me create structured web pages with formatted text, images, forms, and multimedia content. The knowledge of headings, lists, and tables forms the foundation for creating more complex web structures in the future.
