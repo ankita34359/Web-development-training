@@ -33,6 +33,10 @@ The aim of this repository is to document and demonstrate my progress in masteri
 - Centralized state management.
 - Actions, reducers, and the Redux flow.
 
+### Key Takeaways
+
+This training will provide me with a strong foundation in frontend development, enabling me to build real-world applications with clean, maintainable code.
+
 ## Future Plans
 
 Once my training phase is complete, I will apply these learnings to build a fully functional YouTube clone. Stay tuned for updates in my main project repository!
