@@ -21,3 +21,10 @@ The following HTML tags and elements were covered in this lecture:
 ```html
 <p>This is a paragraph of text.</p>
 ```
+
+`<b>` and `<strong>`: Both tags are used for bold text, but <strong> also conveys emphasis (used for important text).
+
+```html
+<b>Bold text</b>
+<strong>Important bold text</strong>
+```
