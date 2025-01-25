@@ -41,3 +41,9 @@ The following HTML tags and elements were covered in this lecture:
 ```html
 <mark>Highlighted text</mark>
 ```
+
+`<br>`: Line break tag to insert a new line without starting a new paragraph.
+
+```html
+Line 1<br>Line 2
+```
