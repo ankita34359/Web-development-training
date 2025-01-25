@@ -2,6 +2,8 @@
 
 In this lecture, I learned the foundational concepts of HTML (HyperText Markup Language). HTML is the standard language used to create and design webpages. This lecture introduced me to various HTML tags that are essential for building the structure of a webpage.
 
+---
+
 ## Key Concepts Learned
 
 The following HTML tags and elements were covered in this lecture:
@@ -107,9 +109,13 @@ Line 1<br>Line 2
 </video>
 ```
 
+---
+
 ## Learnings and Insights
 
 This lecture provided me with the fundamental building blocks of HTML. Understanding these basic tags will help me create structured web pages with formatted text, images, forms, and multimedia content. The knowledge of headings, lists, and tables forms the foundation for creating more complex web structures in the future.
+
+---
 
 ## Conclusion
 
