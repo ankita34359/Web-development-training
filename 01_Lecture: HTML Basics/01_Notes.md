@@ -35,3 +35,9 @@ The following HTML tags and elements were covered in this lecture:
 <i>Italic text</i>
 <em>Emphasized italic text</em>
 ```
+
+`<mark>`: Used to highlight text, typically used for search results or important sections.
+
+```html
+<mark>Highlighted text</mark>
+```
