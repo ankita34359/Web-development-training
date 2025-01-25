@@ -13,9 +13,12 @@ The following HTML tags and elements were covered in this lecture:
 `<h1>` to `<h6>`: Tags for creating headings of various sizes. `<h1>` represents the main heading, and `<h6>` is the smallest.
 
 ```html
+
 <h1>Main Heading</h1>
 <h2>Subheading</h2>
+
 ```
+
 ### Text Formatting Tags
 
 `<p>`: Paragraph tag, used for wrapping text into paragraphs.
@@ -64,10 +67,12 @@ Line 1<br>Line 2
 `<ol>`: Ordered list tag, used to create numbered lists.
 
 ```html
+
 <ol>
   <li>First item</li>
   <li>Second item</li>
 </ol>
+
 ```
 
 ### Tables
