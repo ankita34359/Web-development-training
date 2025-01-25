@@ -10,8 +10,7 @@ The following HTML tags and elements were covered in this lecture:
 
 `<h1>` to `<h6>`: Tags for creating headings of various sizes. `<h1>` represents the main heading, and `<h6>` is the smallest.
 
-```
+```html
 <h1>Main Heading</h1>
 <h2>Subheading</h2>
-
 ```
