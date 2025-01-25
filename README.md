@@ -32,3 +32,7 @@ The aim of this repository is to document and demonstrate my progress in masteri
 
 - Centralized state management.
 - Actions, reducers, and the Redux flow.
+
+## Future Plans
+
+Once my training phase is complete, I will apply these learnings to build a fully functional YouTube clone. Stay tuned for updates in my main project repository!
