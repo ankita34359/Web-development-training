@@ -89,7 +89,7 @@ Line 1<br>Line 2
 
 ### Forms
 
-`<form>`: Used to create a form for collecting user input.
+`<form>` : Used to create a form for collecting user input.
 
 ```html
 <form action="/submit">
