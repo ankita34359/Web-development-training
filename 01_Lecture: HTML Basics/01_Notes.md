@@ -51,3 +51,10 @@ Line 1<br>Line 2
 ### Lists
 
 `<ul>`: Unordered list tag, used to create bullet-point lists.
+
+```html
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+```
