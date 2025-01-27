@@ -2,6 +2,8 @@
 
 In this lecture, I learned the foundational concepts of CSS (Cascading Style Sheets). CSS is used to style and enhance the appearance of HTML elements, making web pages visually appealing and user-friendly. This lecture introduced various CSS properties and techniques, applied across pages like Home, About, and Contact.
 
+---
+
 ## Key Concepts Learned
 
 ### CSS Basics
@@ -13,7 +15,6 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
    ```html
       <h1 style="color: blue;">Hello, World!</h1>
    ```
-___
 
 - **Internal CSS:** Using a <style> tag within the <head> section of the HTML file.
 
@@ -30,6 +31,8 @@ ___
   ```html
    <link rel="stylesheet" href="styles.css">
   ```
+
+---
 
 ### Core CSS Properties
 
@@ -48,6 +51,8 @@ The table below provides a summary of common CSS background properties, their op
 | **background-attachment**| `scroll`, `fixed`, `local`                                                                             |
 | **background-clip**     | `border-box`, `padding-box`, `content-box`                                                              |
 | **background-origin**   | `border-box`, `padding-box`, `content-box`                                                              |
+
+---
 
 #### 2.) Text Properties
 
@@ -68,6 +73,7 @@ The table below provides a summary of common CSS text properties, their options,
 | **letter-spacing**   | `normal`, unit value (`2px`)                                                                          |
 | **word-spacing**     | `normal`, unit value (`4px`)                                                                          |
 
+---
 
 #### 3.)Box Modeling Properties: 
 
@@ -114,6 +120,7 @@ The tables below summarize the options and values for CSS Border properties:
 | **border-color**   | Any valid color                                                                    |
 | **border-radius**  | Numeric values (e.g., `10px`, `50%` for circular corners)                          |
 
+---
 
 #### 4.) Display and Positioning Properties
 
@@ -143,6 +150,7 @@ The table below summarizes the options and values for CSS Flexbox properties:
 | **flex-shrink**      | Numeric value                                                                                |
 | **align-content**    | `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `stretch`               |
 
+---
 
 #### 6.) Pseudo-classes
 
