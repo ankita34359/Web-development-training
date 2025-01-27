@@ -1,0 +1,341 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Styling Navbar */
+
+#navbar {
+    background-color: #95c3f1;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#navbar nav ul {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    gap: 20px;
+    padding: 0;
+}
+
+#navbar nav ul h2 {
+    margin-right: auto;
+    font-size: 24px;
+    color: #2c3e50;
+    text-transform: capitalize;
+}
+
+#navbar nav ul li {
+    list-style: none;
+}
+
+#navbar nav ul li a {
+    text-decoration: none;
+    color: #2c3e50;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+#navbar nav ul li a:hover {
+    color: #f39c12;
+}
+
+#navbar nav ul li a.active{
+    font-weight: bold;
+    color: #f39c12;
+}
+
+/* Styling Home */
+
+#home{
+    text-align: center;
+    padding: 20px 20px;
+    background-color: #95c3f1;
+    color: #3803a3;
+    /* max-width: 1200px; */
+}
+
+
+#home div h2{
+    font-weight: bold;
+    font-size: 33px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin: 0 auto;
+}
+
+#home div p {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #3803a3;
+}
+
+/* Styling  About Section */
+
+#about {
+    padding: 20px 25px;
+    margin: 0 auto;
+    background-color: #95c3f1;
+    color: rgb(98, 8, 86);
+}
+
+#about h2{
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+    color: black;
+    text-decoration:underline;
+
+}
+
+#about p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    justify-content: center;
+}
+
+/* Styling  Projects Section */
+
+#projects {
+    display: flex; 
+    gap: 5px;
+    justify-content: space-between; 
+    flex-direction: column;
+    background-color: #95c3f1;
+    padding: 20px 35px; 
+    margin: 0 auto; 
+}
+
+#projects h3 {
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+    color: black;
+    text-decoration:underline;
+}
+
+
+#projects .p1 h4 {
+    padding: 20px 10px;
+    font-size: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#projects .p1 p {
+    text-align: justify;
+    width: 60%;
+    padding: 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+
+}
+
+#projects .dis{
+    display: flex;
+    gap: 2px;
+}
+
+#projects .p1 img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); ;
+}
+
+#projects .p2 h4 {
+    padding: 20px 10px;
+    font-size: 20px;
+}
+
+#projects .p2 p {
+    text-align: justify;
+    width: 70%;
+    padding: 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+#projects .p2 img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); ;
+}
+
+#projects .p3 h4 {
+    padding: 20px 10px;
+    font-size: 20px;
+}
+
+#projects .p3 p {
+    text-align: justify;
+    width: 100%;
+    padding: 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+#projects .p3 img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); ;
+}
+
+#projects .p4 h4 {
+    padding: 20px 10px;
+    font-size: 20px;
+}
+
+#projects .p4 p {
+    text-align: justify;
+    width: 50%;
+    padding: 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+#projects .p4 img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); ;
+}
+
+/* Styling  Certificates Section */
+
+#certificates {
+    display: flex; 
+    gap: 5px;
+    justify-content: space-between; 
+    flex-direction: column;
+    background-color: #95c3f1;
+    padding: 20px 15px; 
+    margin: 0 auto; 
+}
+
+#certificates .cer{
+    display: flex;
+    gap: 2px;
+    padding: 20px 30px;
+}
+
+#certificates h3 {
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+    color: black;
+    text-decoration:underline;
+}
+
+#certificates .c1 h4 {
+    padding: 20px 10px;
+    font-size: 20px;
+
+}
+
+#certificates .c1 img {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); ;
+}
+
+#certificates .c1 p {
+    text-align: justify;
+    width: 70%;
+    padding: 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+#certificates .c2 h4 {
+    padding: 20px 10px;
+    font-size: 20px;
+
+}
+
+#certificates .c2 img {
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); ;
+}
+
+#certificates .c2 p {
+    text-align: justify;
+    width: 70%;
+    padding: 20px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+/* Styling  Contact Section */
+
+#contact {
+    background-color: #95c3f1;
+    padding: 20px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-container {
+    padding: 20px 30px;
+    border-radius: 10px;
+    /* box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); Subtle shadow for depth */
+    max-width: 500px;
+    width: 100%;
+}
+
+#contact h3 {
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+    color: black;
+    text-decoration:underline;
+}
+
+#contact form {
+    padding: 20px 20px;
+    margin: 0 auto;
+
+}
+
+form label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: #555555; /* Slightly lighter text for labels */
+}
+
+form input, form textarea {
+    width: 100%; /* Full width */
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #cccccc; /* Light border color */
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333333; /* Dark text for readability */
+    background-color: #fdfdfd; /* Slightly off-white background */
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+footer {
+    background-color: #95c3f1;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    padding: 20px 20px;
+}
