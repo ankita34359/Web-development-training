@@ -82,3 +82,33 @@ The table below provides a summary of CSS padding properties, their options, and
 | **padding-right**  | Specific padding for the right           |
 | **padding-bottom** | Specific padding for the bottom          |
 | **padding-left**   | Specific padding for the left            |
+
+
+The tables below summarize the options and values for CSS Margin and Border properties:
+
+##### b.) Margin Properties
+
+The tables below summarize the options and values for CSS Margin properties:
+
+
+| **Property**       | **Options/Values**                       |
+|---------------------|------------------------------------------|
+| **margin**         | `auto`, unit values (`px`, `%`, `em`)    |
+| **margin-top**     | Specific margin for the top              |
+| **margin-right**   | Specific margin for the right            |
+| **margin-bottom**  | Specific margin for the bottom           |
+| **margin-left**    | Specific margin for the left             |
+
+
+##### c.)  Border Properties
+
+The tables below summarize the options and values for CSS Border properties:
+
+
+| **Property**       | **Options/Values**                                                                 |
+|---------------------|------------------------------------------------------------------------------------|
+| **border**         | `border-width border-style border-color` (e.g., `1px solid black`)                 |
+| **border-width**   | `thin`, `medium`, `thick`, unit values (`px`)                                      |
+| **border-style**   | `none`, `solid`, `dashed`, `dotted`, `double`, `groove`, `ridge`, `inset`, `outset`, `hidden` |
+| **border-color**   | Any valid color                                                                    |
+| **border-radius**  | Numeric values (e.g., `10px`, `50%` for circular corners)                          |
