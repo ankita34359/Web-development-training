@@ -2,4 +2,14 @@
 
 In this lecture, I learned the foundational concepts of CSS (Cascading Style Sheets). CSS is used to style and enhance the appearance of HTML elements, making web pages visually appealing and user-friendly. This lecture introduced various CSS properties and techniques, applied across pages like Home, About, and Contact.
 
+## Key Concepts Learned
 
+### CSS Basics
+
+#### Ways to Add CSS
+
+**Inline CSS:** Using the style attribute within an HTML element.
+
+```html
+<h1 style="color: blue;">Hello, World!</h1>
+```
