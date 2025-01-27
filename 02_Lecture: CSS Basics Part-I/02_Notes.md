@@ -30,3 +30,5 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
 <link rel="stylesheet" href="styles.css">
 ```
 
+### Core CSS Properties
+
