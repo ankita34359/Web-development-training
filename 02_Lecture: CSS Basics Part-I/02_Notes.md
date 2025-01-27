@@ -26,9 +26,9 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
 
 - **External CSS:** Linking an external .css file using the <link> tag.
 
-```html
-<link rel="stylesheet" href="styles.css">
-```
+  ```html
+   <link rel="stylesheet" href="styles.css">
+  ```
 
 ### Core CSS Properties
 
