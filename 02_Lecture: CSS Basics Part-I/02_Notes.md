@@ -165,3 +165,9 @@ The table below summarizes common CSS pseudo-classes, their usage, and when they
 | `:first-child`      | Applies styles to the first child of an element                 |
 | `:last-child`       | Applies styles to the last child of an element                  |
 | `:nth-child(n)`     | Applies styles to the nth child of an element                   |
+
+---
+
+## Conclusion
+
+This lecture provided a comprehensive understanding of CSS properties and their applications. By combining these properties, I can create visually appealing and responsive web pages.
