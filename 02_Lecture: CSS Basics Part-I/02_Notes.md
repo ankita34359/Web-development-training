@@ -32,7 +32,7 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
 
 ### Core CSS Properties
 
-#### Background Properties
+#### 1.) Background Properties
 
 The table below provides a summary of common CSS background properties, their options, and values:
 
@@ -46,3 +46,21 @@ The table below provides a summary of common CSS background properties, their op
 | **background-attachment**| `scroll`, `fixed`, `local`                                                                             |
 | **background-clip**     | `border-box`, `padding-box`, `content-box`                                                              |
 | **background-origin**   | `border-box`, `padding-box`, `content-box`                                                              |
+
+#### 2.) Text Properties
+
+The table below provides a summary of common CSS text properties, their options, and values:
+
+| **Property**         | **Options/Values**                                                                                     |
+|-----------------------|-------------------------------------------------------------------------------------------------------|
+| **color**            | Any valid color                                                                                      |
+| **font-family**      | `Arial`, `Verdana`, `sans-serif`, etc. (comma-separated values for fallbacks)                         |
+| **font-size**        | `xx-small`, `x-small`, `small`, `medium`, `large`, `x-large`, `xx-large`, `%`, `px`, `em`, `rem`      |
+| **font-style**       | `normal`, `italic`, `oblique`                                                                         |
+| **font-weight**      | `normal`, `bold`, `bolder`, `lighter`, numeric values (`100` to `900`)                                |
+| **line-height**      | `normal`, numeric value (`1.5`), unit values (`20px`, `150%`)                                         |
+| **text-align**       | `left`, `right`, `center`, `justify`, `start`, `end`                                                 |
+| **text-decoration**  | `none`, `underline`, `overline`, `line-through`, `blink` (rarely used)                                |
+| **text-transform**   | `capitalize`, `uppercase`, `lowercase`, `none`                                                       |
+| **letter-spacing**   | `normal`, unit value (`2px`)                                                                          |
+| **word-spacing**     | `normal`, unit value (`4px`)                                                                          |
