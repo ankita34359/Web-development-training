@@ -141,3 +141,18 @@ The table below summarizes the options and values for CSS Flexbox properties:
 | **flex-grow**        | Numeric value (`0`, `1`, etc.)                                                               |
 | **flex-shrink**      | Numeric value                                                                                |
 | **align-content**    | `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `stretch`               |
+
+
+#### 6.) Pseudo-classes
+
+The table below summarizes common CSS pseudo-classes, their usage, and when they apply:
+
+
+| **Pseudo-Class**    | **Usage**                                                        |
+|----------------------|------------------------------------------------------------------|
+| `:hover`            | Applies styles when the mouse is over an element                |
+| `:focus`            | Applies styles when an element (e.g., input) is focused         |
+| `:active`           | Applies styles when an element is being clicked                 |
+| `:first-child`      | Applies styles to the first child of an element                 |
+| `:last-child`       | Applies styles to the last child of an element                  |
+| `:nth-child(n)`     | Applies styles to the nth child of an element                   |
