@@ -8,11 +8,11 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
 
 #### Ways to Add CSS
 
-**Inline CSS:** Using the style attribute within an HTML element.
+- **Inline CSS:** Using the style attribute within an HTML element.
 
-```html
-<h1 style="color: blue;">Hello, World!</h1>
-```
+   ```html
+      <h1 style="color: blue;">Hello, World!</h1>
+   ```
 
 **Internal CSS:** Using a <style> tag within the <head> section of the HTML file.
 
