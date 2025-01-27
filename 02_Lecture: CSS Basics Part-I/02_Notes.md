@@ -17,11 +17,11 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
 - **Internal CSS:** Using a <style> tag within the <head> section of the HTML file.
 
    ```html
-             <style>
-               h1 {
-               color: blue;
-              }
-             </style>
+    <style>
+    h1 {
+    color: blue;
+    }
+    </style>
  ```
 
 **External CSS:** Linking an external .css file using the <link> tag.
