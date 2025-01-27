@@ -36,6 +36,7 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
 
 The table below provides a summary of common CSS background properties, their options, and values:
 
+
 | **Property**           | **Options/Values**                                                                                       |
 |-------------------------|---------------------------------------------------------------------------------------------------------|
 | **background-color**    | Any valid color (e.g., `red`, `#FF5733`, `rgb(255,87,51)`)                                              |
@@ -51,6 +52,7 @@ The table below provides a summary of common CSS background properties, their op
 
 The table below provides a summary of common CSS text properties, their options, and values:
 
+
 | **Property**         | **Options/Values**                                                                                     |
 |-----------------------|-------------------------------------------------------------------------------------------------------|
 | **color**            | Any valid color                                                                                      |
@@ -64,3 +66,19 @@ The table below provides a summary of common CSS text properties, their options,
 | **text-transform**   | `capitalize`, `uppercase`, `lowercase`, `none`                                                       |
 | **letter-spacing**   | `normal`, unit value (`2px`)                                                                          |
 | **word-spacing**     | `normal`, unit value (`4px`)                                                                          |
+
+
+#### 3.)Box Modeling Properties: 
+
+##### a.) Padding
+
+The table below provides a summary of CSS padding properties, their options, and values:
+
+
+| **Property**       | **Options/Values**                       |
+|---------------------|------------------------------------------|
+| **padding**        | `auto`, unit values (`px`, `%`, `em`)    |
+| **padding-top**    | Specific padding for the top             |
+| **padding-right**  | Specific padding for the right           |
+| **padding-bottom** | Specific padding for the bottom          |
+| **padding-left**   | Specific padding for the left            |
