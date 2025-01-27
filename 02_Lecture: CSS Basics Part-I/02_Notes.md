@@ -112,3 +112,32 @@ The tables below summarize the options and values for CSS Border properties:
 | **border-style**   | `none`, `solid`, `dashed`, `dotted`, `double`, `groove`, `ridge`, `inset`, `outset`, `hidden` |
 | **border-color**   | Any valid color                                                                    |
 | **border-radius**  | Numeric values (e.g., `10px`, `50%` for circular corners)                          |
+
+
+#### 4.) Display and Positioning Properties
+
+The table below summarizes the options and values for CSS display and positioning properties:
+
+| **Property**         | **Options/Values**                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------|
+| **display**          | `block`, `inline`, `inline-block`, `flex`, `grid`, `none`, `inline-flex`, `table`, `table-cell`|
+| **position**         | `static`, `relative`, `absolute`, `fixed`, `sticky`                                          |
+| **z-index**          | Numeric value (e.g., `1`, `1000`)                                                            |
+| **top, right, bottom, left** | Unit values (`px`, `%`)                                                              |
+| **overflow**         | `visible`, `hidden`, `scroll`, `auto`                                                        |
+
+---
+
+#### 5.) Flexbox Properties
+
+The table below summarizes the options and values for CSS Flexbox properties:
+
+| **Property**         | **Options/Values**                                                                           |
+|-----------------------|----------------------------------------------------------------------------------------------|
+| **flex-direction**   | `row`, `row-reverse`, `column`, `column-reverse`                                              |
+| **justify-content**  | `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `space-evenly`           |
+| **align-items**      | `flex-start`, `flex-end`, `center`, `stretch`, `baseline`                                     |
+| **flex-wrap**        | `nowrap`, `wrap`, `wrap-reverse`                                                             |
+| **flex-grow**        | Numeric value (`0`, `1`, etc.)                                                               |
+| **flex-shrink**      | Numeric value                                                                                |
+| **align-content**    | `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `stretch`               |
