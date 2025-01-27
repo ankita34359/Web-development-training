@@ -168,6 +168,27 @@ The table below summarizes common CSS pseudo-classes, their usage, and when they
 
 ---
 
+##  Practical Applications
+
+### Home Page
+
+- Applied a background-color for the body.
+- Styled the navigation bar using display: flex and added hover effects to links.
+- Used font-family and font-size for headings and paragraphs.
+
+### About Page
+
+- Created a flexbox layout for presenting information side-by-side.
+- Used padding, margin, and border to create spacing and separation.
+
+### Contact Page
+
+- Styled the form inputs with padding and border-radius.
+- Added a hover effect to the submit button.
+- Used cursor: pointer for buttons and links.
+
+---
+
 ## Conclusion
 
 This lecture provided a comprehensive understanding of CSS properties and their applications. By combining these properties, I can create visually appealing and responsive web pages.
