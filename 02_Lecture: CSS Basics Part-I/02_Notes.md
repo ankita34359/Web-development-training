@@ -13,3 +13,13 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
 ```html
 <h1 style="color: blue;">Hello, World!</h1>
 ```
+
+**Internal CSS:** Using a <style> tag within the <head> section of the HTML file.
+
+```html
+<style>
+    h1 {
+        color: blue;
+    }
+</style>
+```
