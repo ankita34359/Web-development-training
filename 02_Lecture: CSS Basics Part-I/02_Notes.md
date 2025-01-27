@@ -22,7 +22,7 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
     color: blue;
     }
     </style>
- ```
+  ```
 
 **External CSS:** Linking an external .css file using the <link> tag.
 
