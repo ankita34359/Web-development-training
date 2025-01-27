@@ -32,3 +32,17 @@ In this lecture, I learned the foundational concepts of CSS (Cascading Style She
 
 ### Core CSS Properties
 
+#### Background Properties
+
+The table below provides a summary of common CSS background properties, their options, and values:
+
+| **Property**           | **Options/Values**                                                                                       |
+|-------------------------|---------------------------------------------------------------------------------------------------------|
+| **background-color**    | Any valid color (e.g., `red`, `#FF5733`, `rgb(255,87,51)`)                                              |
+| **background-image**    | `url("image.jpg")`, `none`, `linear-gradient()`, `radial-gradient()`                                    |
+| **background-repeat**   | `repeat`, `repeat-x`, `repeat-y`, `no-repeat`, `space`, `round`                                         |
+| **background-position** | `top`, `center`, `bottom`, `left`, `right`, `x% y%`, `xpx ypx`                                          |
+| **background-size**     | `auto`, `cover`, `contain`, `x%`, `xpx`                                                                 |
+| **background-attachment**| `scroll`, `fixed`, `local`                                                                             |
+| **background-clip**     | `border-box`, `padding-box`, `content-box`                                                              |
+| **background-origin**   | `border-box`, `padding-box`, `content-box`                                                              |
