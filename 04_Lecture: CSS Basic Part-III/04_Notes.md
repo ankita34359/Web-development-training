@@ -114,3 +114,5 @@ Keyframes define the stages of an animation by specifying styles at various poin
     }
 }
 ```
+
+Syntax: `animation: name duration timing-function delay iteration-count direction;`
