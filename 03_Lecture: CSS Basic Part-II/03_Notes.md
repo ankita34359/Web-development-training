@@ -129,3 +129,14 @@ div {
 }
 ```
   
+### 5. background-position
+
+- **Description:** Positions the background image.
+- **Values:** Keywords like `top`, `center`, `bottom`, `left`, `right` or precise values like `50% 50%`.
+
+```css
+div {
+    background-image: url('banner.jpg');
+    background-position: center;
+}
+```
