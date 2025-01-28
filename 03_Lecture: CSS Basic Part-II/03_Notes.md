@@ -20,3 +20,16 @@ div {
     position: static;
 }
 ```
+
+### 2. position: relative
+
+- **Description:** Positions the element relative to its normal position. You can use top, right, bottom, or left to move it.
+- **Use Case:** Useful for slight adjustments or creating offset effects.
+
+  ```css
+  div {
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+```
