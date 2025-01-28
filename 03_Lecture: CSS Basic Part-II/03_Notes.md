@@ -14,3 +14,9 @@ CSS `position` defines how an element is positioned in the document flow. There 
 
 - **Description:** The default positioning of elements. Elements are placed in the natural flow of the document.
 - **Use Case:** No additional positioning; the browser determines the position.
+
+```html
+div {
+    position: static;
+}
+```
