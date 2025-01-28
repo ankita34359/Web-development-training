@@ -64,3 +64,10 @@ div {
 
 - **Description:** The element toggles between relative and fixed, depending on the user's scroll position. It "sticks" to a position as long as it's within its parent container.
 - **Use Case:** Used for sticky navigation menus or table headers.
+
+```css
+div {
+    position: sticky;
+    top: 0;
+}
+```
