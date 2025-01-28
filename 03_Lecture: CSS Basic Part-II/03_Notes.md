@@ -71,3 +71,18 @@ div {
     top: 0;
 }
 ```
+
+## Background Properties
+
+CSS background properties allow us to control the visual style of an element's background, such as color, image, position, and size.
+
+### 1. background-color
+
+**Description:** Sets the background color of an element.
+**Values:** Any valid color (red, #ff0000, rgba(255, 0, 0, 0.5)).
+
+```css
+div {
+    background-color: lightblue;
+}
+```
