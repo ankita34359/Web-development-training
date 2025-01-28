@@ -67,3 +67,31 @@ div {
     transform: matrix(1, 0, 0, 1, 50, 50); /* Combines translate and scale */
 }
 ```
+
+## 2. Transition Property
+
+The transition property adds smooth changes between property values over a specified duration. It is often used for hover effects and animations.
+
+```css
+transition: property duration timing-function delay;
+```
+
+### Parameters
+
+- **property:** The CSS property to be transitioned (e.g., background-color, transform).
+- **duration:** The time (e.g., 2s, 500ms) the transition takes.
+- **timing-function:** Defines the speed curve (ease, linear, ease-in, ease-out, etc.).
+- **delay:** The wait time before the transition starts (optional).
+
+#### Example: 
+
+```css
+  button {
+    background-color: blue;
+    transition: background-color 0.5s ease-in-out;
+}
+
+button:hover {
+    background-color: green;
+}
+```
