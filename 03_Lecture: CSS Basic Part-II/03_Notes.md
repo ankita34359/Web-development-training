@@ -155,3 +155,13 @@ div {
     background-attachment: fixed;
 }
 ```
+
+### 7. Shorthand: background
+
+The background shorthand combines multiple background properties into one line.
+
+```css
+div {
+    background: url('background.jpg') no-repeat center/cover;
+}
+```
