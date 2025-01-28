@@ -95,3 +95,22 @@ button:hover {
     background-color: green;
 }
 ```
+
+## 3. Animation Property
+
+The animation property enables the creation of keyframe-based animations. You can control the timing, duration, and other parameters of an animation.
+
+### Keyframes
+
+Keyframes define the stages of an animation by specifying styles at various points.
+
+```css
+@keyframes animation-name {
+    from {
+        property: value;
+    }
+    to {
+        property: value;
+    }
+}
+```
