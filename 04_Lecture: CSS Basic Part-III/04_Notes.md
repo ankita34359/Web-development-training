@@ -190,3 +190,13 @@ You can combine these properties to create dynamic effects.
 
 - When hovered, the box scales up and changes color.
 - The color also cycles through red and yellow in a continuous animation.
+
+## Summary of Properties
+
+The table below provides a summary of some key CSS properties, their descriptions, and examples:
+
+| **Property**   | **Description**                                      | **Example**                     |
+|-----------------|------------------------------------------------------|----------------------------------|
+| **transform**  | Translates, scales, rotates, or skews an element.    | `transform: scale(1.5);`        |
+| **transition** | Creates smooth changes between property values.      | `transition: all 0.5s ease;`    |
+| **animation**  | Creates animations using keyframes.                  | `animation: fade 2s infinite;`  |
