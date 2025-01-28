@@ -97,3 +97,19 @@ div {
     background-image: url('background.jpg');
 }
 ```
+
+### 3. background-repeat
+
+**Description:** Specifies if/how the background image repeats.
+**Values:**
+`repeat` (default): Repeats both horizontally and vertically.
+`repeat-x`: Repeats horizontally.
+`repeat-y`: Repeats vertically.
+`no-repeat`: Does not repeat.
+
+```css
+div {
+    background-image: url('pattern.png');
+    background-repeat: no-repeat;
+}
+```
