@@ -26,10 +26,23 @@ div {
 - **Description:** Positions the element relative to its normal position. You can use top, right, bottom, or left to move it.
 - **Use Case:** Useful for slight adjustments or creating offset effects.
 
-  ```css
+```css
   div {
     position: relative;
     top: 10px;
     left: 20px;
+}
+```
+
+### 3. position: absolute
+
+- **Description:** Removes the element from the document flow and positions it relative to its nearest positioned ancestor (not static).
+- **Use Case:** Commonly used for modals, dropdown menus, or overlays.
+
+```css
+  div {
+    position: absolute;
+    top: 50px;
+    left: 30px;
 }
 ```
