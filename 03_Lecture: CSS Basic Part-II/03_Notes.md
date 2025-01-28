@@ -6,6 +6,8 @@ In this lecture, I learned about CSS properties related to Positioning and Backg
 
 This document provides a detailed explanation of the properties covered in the lecture, with examples to help us understand how to use them effectively.
 
+---
+
 ## Position Properties
 
 CSS `position` defines how an element is positioned in the document flow. There are five main values: `static`, `relative`, `absolute`, `fixed`, and `sticky`. Here's an overview of each:
@@ -71,6 +73,8 @@ div {
     top: 0;
 }
 ```
+
+---
 
 ## Background Properties
 
@@ -166,6 +170,8 @@ div {
 }
 ```
 
+---
+
 ## Summary of Properties
 
 ### Position Properties
@@ -177,6 +183,7 @@ The table below summarizes the common positioning properties, their values, and 
 | **position**         | `static`, `relative`, `absolute`, `fixed`, `sticky` | Controls element placement.         |
 | **top / right / bottom / left** | Length values (`px`, `%`)         | Moves positioned elements.          |
 
+---
 
 ## Background Properties
 
