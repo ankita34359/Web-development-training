@@ -46,3 +46,8 @@ div {
     left: 30px;
 }
 ```
+
+### 4. position: fixed
+
+- **Description:** Positions the element relative to the viewport. The element stays fixed in place when scrolling.
+- **Use Case:** Perfect for sticky headers, footers, or side navigation bars.
