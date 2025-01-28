@@ -59,3 +59,8 @@ div {
     width: 100%;
 }
 ```
+
+### 5. position: sticky
+
+- **Description:** The element toggles between relative and fixed, depending on the user's scroll position. It "sticks" to a position as long as it's within its parent container.
+- **Use Case:** Used for sticky navigation menus or table headers.
