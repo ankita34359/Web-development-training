@@ -185,3 +185,8 @@ You can combine these properties to create dynamic effects.
     }
 }
 ```
+
+### Effect
+
+- When hovered, the box scales up and changes color.
+- The color also cycles through red and yellow in a continuous animation.
