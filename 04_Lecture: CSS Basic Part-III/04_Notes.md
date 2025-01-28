@@ -12,8 +12,17 @@ This document explains these properties in detail with practical examples to hel
 
 The transform property allows you to modify the shape, size, and position of elements without affecting the document flow. It supports various transformation functions such as translation, rotation, scaling, and skewing.
 
-Syntax
-
 ```css
 transform: function(value);
+```
+
+## Functions and Examples
+
+translate(x, y)
+Moves an element from its current position by the specified x (horizontal) and y (vertical) values.
+
+```css
+div {
+    transform: translate(50px, 20px);
+}
 ```
