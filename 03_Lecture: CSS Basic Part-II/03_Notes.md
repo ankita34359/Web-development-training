@@ -165,3 +165,14 @@ div {
     background: url('background.jpg') no-repeat center/cover;
 }
 ```
+
+## Summary of Properties
+
+### Position Properties
+
+The table below summarizes the common positioning properties, their values, and descriptions:
+
+| **Property**         | **Values**                   | **Description**                     |
+|-----------------------|-----------------------------|-------------------------------------|
+| **position**         | `static`, `relative`, `absolute`, `fixed`, `sticky` | Controls element placement.         |
+| **top / right / bottom / left** | Length values (`px`, `%`)         | Moves positioned elements.          |
