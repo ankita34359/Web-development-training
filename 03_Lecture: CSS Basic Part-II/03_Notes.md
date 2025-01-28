@@ -118,9 +118,9 @@ div {
 
 - **Description:** Specifies the size of the background image.
 - **Values:**
-      - `auto:` Default size.
-      - `cover:` Scales the image to cover the entire container.
-      - `contain:` Scales the image to fit within the container.
+   - `auto:` Default size.
+   - `cover:` Scales the image to cover the entire container.
+   - `contain:` Scales the image to fit within the container.
 
 ```css
 div {
