@@ -18,11 +18,32 @@ transform: function(value);
 
 ## Functions and Examples
 
-translate(x, y)
+1.) translate(x, y)
+
 Moves an element from its current position by the specified x (horizontal) and y (vertical) values.
 
 ```css
 div {
     transform: translate(50px, 20px);
+}
+```
+
+2.) scale(x, y)
+
+Scales an element's size horizontally (x) and vertically (y).
+
+```css
+div {
+    transform: scale(1.5, 1.5); /* Enlarges element by 1.5 times */
+}
+```
+
+3.) rotate(angle)
+
+Rotates an element by the specified angle (in degrees).
+
+```css
+div {
+    transform: rotate(45deg);
 }
 ```
