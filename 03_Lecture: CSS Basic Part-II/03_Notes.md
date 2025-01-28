@@ -51,3 +51,11 @@ div {
 
 - **Description:** Positions the element relative to the viewport. The element stays fixed in place when scrolling.
 - **Use Case:** Perfect for sticky headers, footers, or side navigation bars.
+
+```css
+div {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+```
