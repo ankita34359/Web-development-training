@@ -115,4 +115,34 @@ Keyframes define the stages of an animation by specifying styles at various poin
 }
 ```
 
-Syntax: `animation: name duration timing-function delay iteration-count direction;`
+Syntax: 
+
+```css
+animation: name duration timing-function delay iteration-count direction;
+```
+
+#### Parameters
+
+- **name:** The name of the keyframes.
+- **duration:** Duration of the animation (e.g., 2s).
+- **timing-function:** Defines the speed curve.
+- **delay:** Wait time before animation starts.
+- **iteration-count:** Number of times the animation runs (infinite for continuous looping).
+- **direction:** Direction of the animation (normal, reverse, alternate, etc.).
+
+#### Example: 
+
+```css
+@keyframes slide {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(100px);
+    }
+}
+
+div {
+    animation: slide 2s ease-in-out infinite;
+}
+```
