@@ -140,3 +140,18 @@ div {
     background-position: center;
 }
 ```
+
+### 6. background-attachment
+
+- **Description:** Controls whether the background image scrolls with the page or is fixed.
+- **Values:**
+    - `scroll`: Background scrolls with the content.
+    - `fixed`: Background stays fixed in place.
+    - `local`: Background scrolls within the element.
+
+```css
+div {
+    background-image: url('parallax.jpg');
+    background-attachment: fixed;
+}
+```
