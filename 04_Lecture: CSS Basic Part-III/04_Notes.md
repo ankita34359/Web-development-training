@@ -146,3 +146,42 @@ div {
     animation: slide 2s ease-in-out infinite;
 }
 ```
+
+## Combining Transform, Transition, and Animation
+
+You can combine these properties to create dynamic effects.
+
+#### Example:
+
+```css
+<div class="animated-box"></div>
+```
+
+```css
+.animated-box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transform: scale(1);
+    transition: transform 0.5s ease-in-out, background-color 0.5s;
+
+    animation: color-change 3s linear infinite;
+}
+
+.animated-box:hover {
+    transform: scale(1.2);
+    background-color: blue;
+}
+
+@keyframes color-change {
+    0% {
+        background-color: red;
+    }
+    50% {
+        background-color: yellow;
+    }
+    100% {
+        background-color: red;
+    }
+}
+```
