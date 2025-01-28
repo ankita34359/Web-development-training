@@ -67,6 +67,7 @@ div {
     transform: matrix(1, 0, 0, 1, 50, 50); /* Combines translate and scale */
 }
 ```
+---
 
 ## 2. Transition Property
 
@@ -95,6 +96,8 @@ button:hover {
     background-color: green;
 }
 ```
+
+---
 
 ## 3. Animation Property
 
@@ -147,6 +150,8 @@ div {
 }
 ```
 
+---
+
 ## Combining Transform, Transition, and Animation
 
 You can combine these properties to create dynamic effects.
@@ -190,6 +195,8 @@ You can combine these properties to create dynamic effects.
 
 - When hovered, the box scales up and changes color.
 - The color also cycles through red and yellow in a continuous animation.
+
+---
 
 ## Summary of Properties
 
