@@ -113,3 +113,19 @@ div {
     background-repeat: no-repeat;
 }
 ```
+
+### 4. background-size
+
+- **Description:** Specifies the size of the background image.
+- **Values:**
+      - `auto:` Default size.
+      - `cover:` Scales the image to cover the entire container.
+      - `contain:` Scales the image to fit within the container.
+
+```css
+div {
+    background-image: url('hero.jpg');
+    background-size: cover;
+}
+```
+  
