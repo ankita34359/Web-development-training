@@ -86,3 +86,14 @@ div {
     background-color: lightblue;
 }
 ```
+
+### 2. background-image
+
+**Description:** Sets an image as the background of an element.
+**Values:** URL of the image.
+
+```css
+div {
+    background-image: url('background.jpg');
+}
+```
