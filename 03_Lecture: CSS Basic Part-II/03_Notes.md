@@ -176,3 +176,17 @@ The table below summarizes the common positioning properties, their values, and 
 |-----------------------|-----------------------------|-------------------------------------|
 | **position**         | `static`, `relative`, `absolute`, `fixed`, `sticky` | Controls element placement.         |
 | **top / right / bottom / left** | Length values (`px`, `%`)         | Moves positioned elements.          |
+
+
+## Background Properties
+
+The table below summarizes common background properties, their values, and descriptions:
+
+| **Property**           | **Values**                                | **Description**                                        |
+|-------------------------|-------------------------------------------|-------------------------------------------------------|
+| **background-color**   | Any valid color (`red`, `#hex`, `rgba`)   | Sets the background color.                           |
+| **background-image**   | `url('path-to-image')`                    | Sets a background image.                             |
+| **background-repeat**  | `repeat`, `no-repeat`, `repeat-x`, `repeat-y` | Controls how the image repeats.                     |
+| **background-size**    | `auto`, `cover`, `contain`, custom sizes  | Scales the background image.                         |
+| **background-position**| Keywords (`center`, `top`) or percentages | Positions the background image.                      |
+| **background-attachment** | `scroll`, `fixed`, `local`             | Controls scrolling behavior of the background image. |
