@@ -47,3 +47,23 @@ div {
     transform: rotate(45deg);
 }
 ```
+
+4.) skew(x-angle, y-angle)
+
+Skews an element along the x and y axes.
+
+```css
+div {
+    transform: skew(20deg, 10deg);
+}
+```
+
+5.) matrix(a, b, c, d, e, f)
+
+Applies a combination of transformations using a transformation matrix.
+
+```css
+div {
+    transform: matrix(1, 0, 0, 1, 50, 50); /* Combines translate and scale */
+}
+```
