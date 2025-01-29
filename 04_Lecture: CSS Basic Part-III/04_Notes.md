@@ -10,7 +10,7 @@ This document explains these properties in detail with practical examples to hel
 
 ## 1. Transform Property
 
-The transform property allows you to modify the shape, size, and position of elements without affecting the document flow. It supports various transformation functions such as translation, rotation, scaling, and skewing.
+The transform property allows us to modify the shape, size, and position of elements without affecting the document flow. It supports various transformation functions such as translation, rotation, scaling, and skewing.
 
 ```css
 transform: function(value);
