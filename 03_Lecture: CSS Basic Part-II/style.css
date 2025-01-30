@@ -1,0 +1,132 @@
+body {
+    margin: 0 0;
+    background-color: rgb(183, 218, 249);
+}
+
+#header {
+    padding: 10px 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2 {
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+#images {
+    padding: 20px 70px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(600px, 2fr));
+}
+
+#images img {
+    width: 600px;
+    height:300px;
+    margin: 10px 10px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.img-1:hover {
+    transform: rotate(1deg);
+}
+
+.img-2:hover {
+    transform: skew(1deg, 1deg);
+}
+
+.img-3:hover {
+     transition: transform 0.3s ease-in-out, box-shadow 0.3s;
+     transform: matrix(1, 0, 0, 1, 20, 20);  
+}
+
+.img-4:hover {
+    transform: scale(1.03);
+    filter:saturate(2); 
+} 
+
+.img-4 {
+    animation: move 2s ease-in-out infinite;
+}
+
+@keyframes move {
+    from { transform: translateX(0); }
+    to { transform: translateX(100px); }
+}
+
+
+.img-6:hover {
+    filter: grayscale(1);
+    transition-duration: 5ms;
+    transform: scale(1.06);
+}
+
+.img-6 {
+    animation: pulse 3s infinite;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
+
+
+.img-7:hover {
+    animation:cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition-duration: 5ms;
+    transform: scale(1.04);
+}
+
+.img-7 {
+    animation: slide 2s infinite alternate;
+}
+
+@keyframes slide {
+    from { transform: translateX(0); }
+    to { transform: translateX(200px); }
+}
+
+
+.img-8:hover {
+    filter:sepia();
+    transition-duration: 5ms;
+    transform:translateY(10px);
+    animation-play-state: running;
+}
+
+.img-8 {
+    animation: shake 5s infinite;
+    animation-play-state: paused;
+}
+
+.img-9:hover {
+    filter:blur(1.5);
+    transform:translateX(20px);
+}
+
+.img-9 {
+    animation: fadeIn 2s forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+
+.img-10:hover {
+    transform:translate(20px, 10px);
+}
+@keyframes bounce {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-50px); }
+    100% { transform: translateY(0); }
+}
+
+.img-10{
+    animation: bounce 2s infinite ease-in-out;
+}
