@@ -84,7 +84,7 @@ transition: property duration timing-function delay;
 - **timing-function:** Defines the speed curve (ease, linear, ease-in, ease-out, etc.).
 - **delay:** The wait time before the transition starts (optional).
 
-#### Example: 
+#### Example:    
 
 ```css
   button {
