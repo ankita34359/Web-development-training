@@ -17,3 +17,5 @@ JavaScript (JS) is a lightweight, interpreted, and dynamic programming language 
 - Handles events (click, hover, form submission)
 
 - Supports backend development (Node.js)
+
+We can include JavaScript in an HTML file in three ways:
