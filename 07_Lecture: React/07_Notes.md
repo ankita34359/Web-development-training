@@ -1,4 +1,4 @@
-# **React Basics - Lecture 7**
+# **React Basics**
 
 ## **📌 Overview**
 In this lecture, we explore the fundamentals of **React.js**, including its core concepts like **components, props, state, JSX, and event handling**. React is a powerful JavaScript library for building interactive and dynamic user interfaces efficiently.
