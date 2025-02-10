@@ -4,7 +4,7 @@ In this lecture, I learned the foundational concepts of HTML (HyperText Markup L
 
 ---
 
-## Key Concepts Learned
+## Key Concepts Learned 
 
 The following HTML tags and elements were covered in this lecture:
 
