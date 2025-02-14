@@ -1,4 +1,4 @@
-# CSS Basics Part II
+# CSS Basics Part II 
 
 ## Lecture Overview
 
